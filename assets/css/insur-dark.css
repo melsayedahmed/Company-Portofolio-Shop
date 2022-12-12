@@ -1,0 +1,180 @@
+body,
+.about-one,
+.get-insurance-bg,
+.get-insurance,
+.testimonial-one__quote,
+.testimonial-one__single,
+.testimonial-one__single-inner,
+.news-one__single:hover .news-one__content,
+.stricky-header {
+  background-color: #111d32;
+}
+
+.preloader,
+.get-insurance__tab-box .tab-buttons .tab-btn span,
+.main-menu__main-menu-box {
+  background-color: #0f192c;
+}
+
+.main-menu__call-content a,
+.feature-one__title,
+.team-one__name a,
+.team-one__name,
+.feature-one__title a,
+.main-menu .main-menu__list > li.current > a,
+.main-menu .main-menu__list > li:hover > a,
+.get-insurance__author p,
+.about-one__call-content a,
+.service-one__title a,
+.testimonial-one__client-name,
+.news-one__title a,
+.news-one__title,
+.service-one__title,
+.news-one__read-more a,
+.get-insurance__progress-title,
+.get-insurance__balance,
+.stricky-header .main-menu__list > li.current > a,
+.stricky-header .main-menu__list > li:hover > a {
+  color: #fff;
+}
+
+.testimonial-one__top-text,
+.section-sub-title,
+.main-menu__call-content p,
+.main-slider__text,
+.feature-one__text,
+.service-one__text,
+.about-one__text-2,
+.services-one__top-text,
+.team-one__bottom-text,
+.testimonial-one__text,
+.about-one__call-content p,
+.get-insurance__tab-box .tab-buttons .tab-btn span,
+.main-menu .main-menu__list > li > a,
+.news-one__meta li a,
+.news-one__text,
+.stricky-header .main-menu__list > li > a {
+  color: #97a2b7;
+}
+
+.main-menu__main-menu-box-search:before {
+  background-color: #fff;
+  opacity: 0.1;
+}
+
+.main-slider__title,
+.about-one__points li .text p,
+.section-title__title,
+.main-menu__search {
+  color: #fff;
+}
+
+.services-one__icon,
+.feature-one__single {
+  background-color: #0f192c;
+  -webkit-box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+          box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+}
+
+.feature-one__count:before {
+  -webkit-text-stroke: 1px #16243d;
+}
+
+.main-slider-shape-1 {
+  mix-blend-mode: multiply;
+}
+
+.main-slider-shape-1 img {
+  mix-blend-mode: multiply;
+}
+
+.service-one__content,
+.get-insurance__input-box input[type="text"],
+.get-insurance__progress .bar,
+.get-insurance__input-box input[type="email"],
+.get-insurance__author,
+.get-insurance__progress-range .irs--flat .irs-line,
+.main-slider .swiper-slide {
+  background-color: #16243d;
+}
+
+.get-insurance__input-box .bootstrap-select > .dropdown-toggle {
+  color: #97a2b7 !important;
+  background-color: #16243d !important;
+}
+
+.main-slider .image-layer:before {
+  background-image: -webkit-gradient(linear, left top, right top, from(#16243d), to(rgba(22, 36, 61, 0)));
+  background-image: linear-gradient(90deg, #16243d 0%, rgba(22, 36, 61, 0) 100%);
+}
+
+.main-slider .image-layer {
+  background-color: #16243d;
+  background-blend-mode: luminosity;
+}
+
+.about-one__call-icon {
+  border-color: var(--insur-primary);
+}
+
+.testimonial-one,
+.services-one {
+  background-color: #0f192c;
+}
+
+.service-one__content {
+  -webkit-box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.07);
+          box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.07);
+}
+
+.get-insurance:before {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#16243d), to(rgba(22, 36, 61, 0)));
+  background-image: linear-gradient(0deg, #16243d 0%, rgba(22, 36, 61, 0) 100%);
+}
+
+.get-insurance__input-box input[type="text"],
+.get-insurance__progress .bar,
+.get-insurance__input-box .bootstrap-select > .dropdown-toggle,
+.get-insurance__input-box input[type="email"] {
+  -webkit-box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.05);
+          box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.05);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(255, 255, 255, 0.1);
+  color: #97a2b7;
+}
+
+.get-insurance__circle {
+  background-color: #131f34;
+}
+
+.testimonial-one__shape-1 {
+  -webkit-box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.1);
+}
+
+.get-insurance__progress-range .irs--flat .irs-line,
+.news-one__content {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.main-menu__call-icon {
+  border-color: var(--insur-primary);
+}
+
+.team-one__img::after {
+  border: 2px dashed rgba(255, 255, 255, 0.1);
+}
+
+.testimonial-one__client-img-box > img {
+  border-color: #111d32;
+}
+
+.about-one-bg {
+  opacity: 0.03;
+}
+
+.main-menu__cart {
+  color: #fff;
+}
+/*# sourceMappingURL=insur-dark.css.map */

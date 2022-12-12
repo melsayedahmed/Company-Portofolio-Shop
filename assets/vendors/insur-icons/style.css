@@ -1,0 +1,169 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?orkqwr');
+  src: url('fonts/icomoon.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?orkqwr') format('truetype'),
+    url('fonts/icomoon.woff?orkqwr') format('woff'),
+    url('fonts/icomoon.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+.icon-magnifying-glass:before {
+  content: "\e900";
+}
+.icon-right-arrow:before {
+  content: "\e901";
+}
+.icon-right-arrow1:before {
+  content: "\e902";
+}
+.icon-up-arrow:before {
+  content: "\e903";
+}
+.icon-down-arrow:before {
+  content: "\e904";
+}
+.icon-cashback:before {
+  content: "\e905";
+}
+.icon-insurance:before {
+  content: "\e906";
+}
+.icon-house:before {
+  content: "\e907";
+}
+.icon-family:before {
+  content: "\e908";
+}
+.icon-drive:before {
+  content: "\e909";
+}
+.icon-home:before {
+  content: "\e90a";
+}
+.icon-heart-beat:before {
+  content: "\e90b";
+}
+.icon-fire:before {
+  content: "\e90c";
+}
+.icon-briefcase:before {
+  content: "\e90d";
+}
+.icon-ring:before {
+  content: "\e90e";
+}
+.icon-plane:before {
+  content: "\e90f";
+}
+.icon-easy-to-use:before {
+  content: "\e910";
+}
+.icon-policy:before {
+  content: "\e911";
+}
+.icon-contract:before {
+  content: "\e912";
+}
+.icon-fund:before {
+  content: "\e913";
+}
+.icon-group:before {
+  content: "\e914";
+}
+.icon-insurance-1:before {
+  content: "\e915";
+}
+.icon-success:before {
+  content: "\e916";
+}
+.icon-life-insurance:before {
+  content: "\e917";
+}
+.icon-folder:before {
+  content: "\e918";
+}
+.icon-telephone:before {
+  content: "\e919";
+}
+.icon-email:before {
+  content: "\e91a";
+}
+.icon-telephone-call:before {
+  content: "\e91b";
+}
+.icon-pin:before {
+  content: "\e91c";
+}
+.icon-cash-flow:before {
+  content: "\e91d";
+}
+.icon-profits:before {
+  content: "\e91e";
+}
+.icon-insurance-2:before {
+  content: "\e91f";
+}
+.icon-select:before {
+  content: "\e920";
+}
+.icon-meeting:before {
+  content: "\e921";
+}
+.icon-agreement:before {
+  content: "\e922";
+}
+.icon-insurance-agent:before {
+  content: "\e923";
+}
+.icon-tick:before {
+  content: "\e924";
+}
+.icon-money-back:before {
+  content: "\e925";
+}
+.icon-employees:before {
+  content: "\e926";
+}
+.icon-mission:before {
+  content: "\e927";
+}
+.icon-computer:before {
+  content: "\e928";
+}
+.icon-chat:before {
+  content: "\e929";
+}
+.icon-file:before {
+  content: "\e92a";
+}
+.icon-plus:before {
+  content: "\e92b";
+}
+.icon-shield:before {
+  content: "\e92c";
+}
